@@ -56,3 +56,9 @@ Descrição do projeto.
     ```
 
 2. Acesse a aplicação em seu navegador: [http://localhost:8000](http://localhost:8000)
+
+Para acessar o "sistema":
+
+Usuário: userteste
+E-mail: userteste@gmail.com
+Senha: password
